@@ -15,3 +15,5 @@ These enhanced images are then classified using two deep learning models:
 VGG-19 for deep spatial feature learning
 
 ConvNeXt for hierarchical feature extraction
+
+![image](https://github.com/user-attachments/assets/0186f772-23ce-457d-8d77-8ec8ba5e6f8f)
