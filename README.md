@@ -10,7 +10,7 @@ Contrast Limited Adaptive Histogram Equalization (CLAHE) for improved contrast
 
 Blood Vessel Segmentation for vascular structure clarity
 
-## These enhanced images are then classified using two deep learning models:
+### These enhanced images are then classified using two deep learning models:
 
 VGG-19 for deep spatial feature learning
 
